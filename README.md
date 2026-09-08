@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm MingoBerlingo
 
-<!--
-**MingoBerlingo/MingoBerlingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a UX/UI Designer and Frontend Developer from Italy 🇮🇹 currently @berachain 🐻⛓️
 
-Here are some ideas to get you started:
+I focus on:
+- **Design systems architecture**
+- **UI component library development**
+- **Frontend implementation** in **React** and **Svelte**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time I tinker with electronics projects 🤖 embedded hardware, microcontrollers, and DIY builds.
+
+## Recently worked for
+- [Smilee Finance](https://www.smilee.finance) - A Web3 & DeFi products suite
+- [Berachain](https://www.berachain.com) - Layer 1 blockchain powered by Proof of Liquidity
