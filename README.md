@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm MingoBerlingo
 
-I am a UX/UI Designer and Frontend Developer from Italy 🇮🇹 currently @berachain 🐻⛓️
+I am a UX/UI Designer and Frontend Developer from Italy 🍝 currently @berachain 🐻⛓️
 
 I focus on:
 - **Design systems architecture**
